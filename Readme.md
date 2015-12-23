@@ -9,6 +9,6 @@ https://gist.github.com/melanke/7158342
 
 http://stackoverflow.com/questions/18378741/how-to-make-an-imageview-in-circular-shape
 
-LA POSTA
+LA POSTAa
 http://stackoverflow.com/questions/2459916/how-to-make-an-imageview-with-rounded-corners
 https://github.com/vinc3m1/RoundedImageView
